@@ -1,0 +1,4 @@
+O projeto tinha como requisitos mínimos: Aquisição dos valores atualizados das ações;  Opção de compra e venda simulada de ações; Gerar gráficos com base no histórico de compra/venda. 
+Fiz a parte a de aquisição de valores, sendo o arquivo dados, e o meu amigo, Thomas Olivieri, fez a parte da interface, sendo o arquivo interface, e implementou a na, interface, 
+a parte do meu amigo, Henrique Pires de Lima, que fez a parte de compra e venda simulada de ações. Ocorreram alguns problemas que não entendemos, pois o código funciona perfeitamente 
+em alguns computadores, mas em outros ele dá erro, se alguém puder explicar nos explicar do por que isso acontece, nos agradecemos.
